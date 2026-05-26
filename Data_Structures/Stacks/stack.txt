@@ -1,0 +1,7 @@
+1. - what is stack?
+2. - undo, reverse, backtrack, matching, previous
+3. - in python simple list also act as stack append() pop()
+
+
+A- list
+B- class/real world projects
